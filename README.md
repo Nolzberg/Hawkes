@@ -1,3 +1,1 @@
-# Hawkes
-
-# Simulation de processus de Hawkes avec Rstudio
+## Simulation de processus de Hawkes avec Rstudio
